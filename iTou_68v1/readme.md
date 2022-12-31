@@ -1,3 +1,5 @@
+固件原项目https://github.com/SonixQMK/qmk_firmware
+
 刷写需要短接Boot脚位
 
 经过测量，方便的地方是轴体这面的空格右边焊盘，或者说元器件面的空格左边焊盘
